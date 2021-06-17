@@ -13,3 +13,6 @@ When combined, these data elements predicted the economic impacts with relativel
 In addition, the economic data elements for the various states allowed this analysis to forecast 60 days into the future, to see how well a state’s economy will recover following the month of August 2020. 
 
 The findings yielded: the less stringent the response, the better the economic performance. 
+
+### Run Instructions
+The Jupyter Notebook runs up to the K-Means section. From there, I pivoted to R (per instructor's requirements). Once the R codebook is run, the remaining Jupyter Notebook can commence. 
